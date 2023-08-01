@@ -17,7 +17,7 @@ echo "Connecction was successful <br>";
 }
 
 //Create a DB
-$sql = "CREATE DATABASE dbGokul6";
+$sql = "CREATE DATABASE dbGokul";
 $result = mysqli_query($conn, $sql);
 
 //Check for the database creation success
